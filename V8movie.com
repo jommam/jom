@@ -2,7 +2,7 @@
 "name": "V8movie.com",
 "author": "@jom777",
 "image":"https://media4.giphy.com/media/xT5LMEhhbMKTNA1uE0/giphy.gif",
-"url": "http://tiny.cc/jomMam777",
+"url": "http://tiny.cc/jomjom",
 "stations":[
  
 {"name":"			ดูหนังใหม่","image":"https://i0.wp.com/www.v8movie.com/wp-content/themes/v8movie/img/logo-v8.png","url":"https://www.v8movie.com/category/ดูหนังใหม่/","webviewType":"chrome","embed": true},
