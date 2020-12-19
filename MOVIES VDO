@@ -5,7 +5,28 @@
 "url": "http://tiny.cc/jomjom",
 "stations": [
  
-{"name":"Home Alone 4: Taking Back the House (2002)","image":"https://www.doomovie-hd.com/assets/movie_poster/f/fff508eda0c11719a59c6b64f06f885e.jpg",
+{"name":"The Fast 6: Furious 6 (2013) เร็ว..แรงทะลุนรก 6","image":"https://www.doomovie-hd.com/assets/movie_poster/b/bc08c3466f6fee711935bfbba40c509f.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/f4f562abfbd373efd78f2c92e5d99b34/f4f562abfbd373efd78f2c92e5d99b34.m3u8","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"The Fast 5: Fast Five (2011) เร็ว..แรงทะลุนรก 5","image":"https://www.doomovie-hd.com/assets/movie_poster/6/676d008d1ab04c79532986b7b75d69ba.jpg",
+"url":"","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"The Fast 4: Fast & Furious (2009) เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+","image":"https://www.doomovie-hd.com/assets/movie_poster/c/cbcd6c60d471d9c3c18da80811929459.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/13bb9045bfddcb0ef8a8942f24dee1de/13bb9045bfddcb0ef8a8942f24dee1de.m3u8","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"The Fast 3: Tokyo Drift (2006) เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว","image":"https://www.doomovie-hd.com/assets/movie_poster/6/67e0c0f20415aca9ead55ea8ec52fc53.jpg",
+"url":"https://cdn.livedoomovies.com/hls/94d093a0fb6afc552b0d8f244579a110/94d093a0fb6afc552b0d8f244579a110.playlist.m3u8","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"The Fast 2: 2 Fast 2 Furious (2003) เร็วคูณ 2 ดับเบิ้ลแรงท้านรก","image":"https://www.doomovie-hd.com/assets/movie_poster/a/a7dd09d42ff068a50c8ce88e47307b08.jpg",
+"url":"https://cdn.livedoomovies.com/hls/94d093a0fb6afc552b0d8f244579a110/94d093a0fb6afc552b0d8f244579a110.playlist.m3u8","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"The Fast 1: The Fast and the Furious (2001) เร็ว..แรงทะลุนรก","image":"https://www.doomovie-hd.com/assets/movie_poster/5/5318705f69e1797851a3b1656e2a97d2.jpg",
+"url":"https://cdn.livedoomovies.com/hls/94d093a0fb6afc552b0d8f244579a110/94d093a0fb6afc552b0d8f244579a110.playlist.m3u8","referer":"https://www.doomovie-hd.com/"},
+ 
+{"name":"Initial D - ดริฟท์ติ้ง ซิ่งสายฟ้า","image":"https://www.doomovie-hd.com/assets/movie_poster/8/8b06aaa0ccdb3090f243594520e62e20.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_4K/Redirector.php?url=https://cdn.livedoomovies.com/hls/952f6cc79730c295081919b94b49d8b8/952f6cc79730c295081919b94b49d8b8.m3u8","referer":"https://www.doomovie-hd.com/"},
+ {"name":"Home Alone 4: Taking Back the House (2002)","image":"https://www.doomovie-hd.com/assets/movie_poster/f/fff508eda0c11719a59c6b64f06f885e.jpg",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/ae6f16f0cd9fbd494364783aee5d1059/ae6f16f0cd9fbd494364783aee5d1059.m3u8","referer":"https://www.doomovie-hd.com/"},
  
 {"name":"Home Alone 3 (1997) : โดดเดี่ยวผู้น่ารัก 3","image":"https://www.doomovie-hd.com/assets/movie_poster/2/229b8298078b68f1d1fc5ed07c8bae3d.jpg",
