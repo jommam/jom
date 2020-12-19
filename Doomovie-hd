@@ -1,0 +1,30 @@
+{
+"name": "Doomovie-hd",
+"author": "@jom777",
+"image":"https://i.pinimg.com/originals/65/00/06/650006e59ebcb8df318361e1799ff6e9.gif",
+"url": "http://tiny.cc/jomMam777",
+"stations":[
+ 
+{"name":"			หนังชนโรง","image":"https://www.doomovie-hd.com/DoomovieHD-HLS.png","url":"https://www.doomovie-hd.com/?r=movie&cate=1","webviewType":"chrome","embed": true},
+ 
+{"name":"			หนังฝรั่ง","image":"https://doomovie.com/doomovie/logo.png","url":"https://www.doomovie-hd.com/?r=movie&cate=2","webviewType":"chrome","embed": true},
+ 
+{"name":"			ซีรี่ย์ฝรั่ง","image":"https://generic3viafast.com/wp-content/uploads/2020/09/20200128_200128_000620-1.jpg","url":"https://www.doomovie-hd.com/?r=movie&cate=13","webviewType":"chrome","embed": true},
+ 
+{"name":"			Netflix","image":"https://smart-tv.doomovie-hd.com/Assets/Images/dmhd.png","url":"https://www.doomovie-hd.com/?r=movie&cate=3","webviewType":"chrome","embed": true},
+ 
+{"name":"			Ultra HD 4K","image":"https://www.avenger98th.com/slot/wp-content/uploads/2020/05/8.05.5.jpg","url":"https://www.doomovie-hd.com/?r=movie&cate=4","webviewType":"chrome","embed": true},
+ 
+{"name":"			หนังไทย","image":"https://www.doomovie-hd.com/DoomovieHD-HLS.png","url":"https://www.doomovie-hd.com/?r=movie&cate=6","webviewType":"chrome","embed": true},
+ 
+{"name":"			ซีรี่ย์ไทย","image":"https://doomovie.com/doomovie/logo.png","url":"https://www.doomovie-hd.com/?r=movie&cate=11","webviewType":"chrome","embed": true},
+ 
+{"name":"			หนังจีน","image":"https://generic3viafast.com/wp-content/uploads/2020/09/20200128_200128_000620-1.jpg","url":"https://www.doomovie-hd.com/?r=movie&cate=8","webviewType":"chrome","embed": true},
+ 
+{"name":"			ซีรี่ย์จีน","image":"https://smart-tv.doomovie-hd.com/Assets/Images/dmhd.png","url":"https://www.doomovie-hd.com/?r=movie&cate=14","webviewType":"chrome","embed": true},
+ 
+{"name":"			หนังญี่ปุ่น","image":"https://www.avenger98th.com/slot/wp-content/uploads/2020/05/8.05.5.jpg","url":"https://www.doomovie-hd.com/?r=movie&cate=35","webviewType":"chrome","embed": true},
+ 
+ {"name":"			ซีรี่ย์ญี่ปุ่น","image":"https://www.doomovie-hd.com/DoomovieHD-HLS.png","url":"https://www.doomovie-hd.com/?r=movie&cate=15","webviewType":"chrome","embed": true}
+   ]
+} 
