@@ -1,0 +1,59 @@
+{
+"name": "SPORT",
+"author": "@jom777",
+"image": "https://giffiles.alphacoders.com/209/209588.gif",
+"url": "http://tiny.cc/jomMam777",
+"stations": [
+ 
+{"name": "Premier Football HD 1","image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png","url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-1","referer": "https://player.we-play.tv"},
+ 
+{"name": "Premier Football HD 2","image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png","url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-2","referer": "https://player.we-play.tv"},	
+ 
+{"name": "Premier Football HD 3","image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png","url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-3","referer": "https://player.we-play.tv"},
+ 
+{"name": "Premier Football HD 4","image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png","url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-4","referer": "https://player.we-play.tv"},
+ 
+{"name": "Premier Football HD 5","image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png","url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-5","referer": "https://player.we-play.tv"},			
+ 
+{"name": "	BEIN SPORT HD 1","image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png","url": "https://player.we-play.tv/channel.php?name=bein1&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "	BEIN SPORT HD 2","image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png","url": "https://player.we-play.tv/channel.php?name=bein2&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "		3BB SPORTS 1","image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg","url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT HD","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png","url": "https://www.we-play.tv/watching/tv/true-sports-hd","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT HD2","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png","url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT HD3","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png","url": "https://www.we-play.tv/watching/tv/true-sports-hd-3","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT HD4","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png","url": "https://www.we-play.tv/watching/tv/true-sports-hd-4","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT 2","image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png","url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT 5","image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png","url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports","referer": "https://player.we-play.tv"},	
+ 
+{"name": "	TRUE SPORT 6","image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png","url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "	TRUE SPORT 7","image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png","url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "			NBA HD","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png","url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "		TENNIS HD","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png","url": "https://www.doomovie-hd.com/?r=tv_view&id=26","referer": "https://player.we-play.tv"},
+ 
+{"name": "GOLF CHANNEL HD","image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png","url": "https://www.we-play.tv/watching/tv/golf-channel","referer": "https://player.we-play.tv"},
+ 
+{"name": "		FOX Sports HD","image": "https://overseer.blackboxsys.net/images/png/hd-foxsports1.png","url": "https://player.we-play.tv/channel.php?name=fox1&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "		FOX Sports 2","image": "https://overseer.blackboxsys.net/images/png/hd-foxsports2.png","url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "		FOX Sports 3","image": "https://overseer.blackboxsys.net/images/png/sd-foxsports3.png","url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports","referer": "https://player.we-play.tv"},
+ 
+{"name": "					NFL","image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png","url": "https://www.we-play.tv/watching/tv/nfl-network","referer": "https://player.we-play.tv"},
+ 
+{"name": "		MOTOR VISION","image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png","url": "https://www.we-play.tv/watching/tv/motor-vision","referer": "https://player.we-play.tv"}
+ 
+	    ]
+	}		
+    ]
+}
